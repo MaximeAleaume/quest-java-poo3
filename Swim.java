@@ -1,3 +1,5 @@
+package fr.wcs.lib;
+
 public interface Swim {
 
     void dive();

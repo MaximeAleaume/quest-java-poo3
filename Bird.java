@@ -1,3 +1,5 @@
+package fr.wcs.lib;
+
 public abstract class Bird {
   
     // attributs  

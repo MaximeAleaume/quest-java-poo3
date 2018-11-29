@@ -1,3 +1,5 @@
+package fr.wcs.lib;
+
 public class Penguin extends Bird implements Swim {
 
     private boolean swimming;
